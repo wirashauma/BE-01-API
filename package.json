@@ -1,0 +1,25 @@
+{
+  "name": "be-01-api",
+  "version": "1.0.0",
+  "description": "Backend API project by wirashauma",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wirashauma/BE-01-API.git"
+  },
+  "keywords": [],
+  "author": "wirashauma",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wirashauma/BE-01-API/issues"
+  },
+  "homepage": "https://github.com/wirashauma/BE-01-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
